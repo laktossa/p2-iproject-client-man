@@ -18,7 +18,6 @@ export default {
 </script>
 
 <template>
-  <!-- ====== Forms Section Start -->
   <section class="py-20 lg:py-[120px]">
     <div class="">
       <div class="flex flex-wrap -mx-4">
@@ -307,5 +306,4 @@ export default {
       </div>
     </div>
   </section>
-  <!-- ====== Forms Section End -->
 </template>
