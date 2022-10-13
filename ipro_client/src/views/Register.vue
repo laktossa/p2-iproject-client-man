@@ -52,7 +52,7 @@ export default {
                   v-model="obj.username"
                   type="text"
                   placeholder="Username"
-                  class="w-full rounded-md border bordder-[#E9EDF4] py-3 px-5 bg-[#FCFDFE] text-base text-body-color placeholder-[#ACB6BE] outline-none focus-visible:shadow-none focus:border-primary"
+                  class="w-full rounded-md border bordder-[#E9EDF4] py-3 px-5 bg-[#FCFDFE] text-base text-body-color placeholder-[#000000] outline-none focus-visible:shadow-none focus:border-primary"
                 />
               </div>
               <div class="mb-6">
@@ -60,7 +60,7 @@ export default {
                   v-model="obj.email"
                   type="text"
                   placeholder="Email"
-                  class="w-full rounded-md border bordder-[#E9EDF4] py-3 px-5 bg-[#FCFDFE] text-base text-body-color placeholder-[#ACB6BE] outline-none focus-visible:shadow-none focus:border-primary"
+                  class="w-full rounded-md border bordder-[#E9EDF4] py-3 px-5 bg-[#FCFDFE] text-base text-body-color placeholder-[#000000] outline-none focus-visible:shadow-none focus:border-primary"
                 />
               </div>
               <div class="mb-6">
@@ -68,7 +68,7 @@ export default {
                   v-model="obj.password"
                   type="password"
                   placeholder="Password"
-                  class="w-full rounded-md border bordder-[#E9EDF4] py-3 px-5 bg-[#FCFDFE] text-base text-body-color placeholder-[#ACB6BE] outline-none focus-visible:shadow-none focus:border-primary"
+                  class="w-full rounded-md border bordder-[#E9EDF4] py-3 px-5 bg-[#FCFDFE] text-base text-body-color placeholder-[#000000] outline-none focus-visible:shadow-none focus:border-primary"
                 />
               </div>
               <div class="mb-10">
@@ -302,5 +302,4 @@ export default {
       </div>
     </div>
   </section>
-  <!-- ====== Forms Section End -->
 </template>
